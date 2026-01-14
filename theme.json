@@ -1,25 +1,12 @@
 {
-  "id": "No-Gaps",
-  "homepage": "https://github.com/Comp-Tech-Guy/No-Gaps",
-  "author": "CompTechGuy",
-  "name": "No-Gaps",
-  "description": "There will be no gaps in the sides to have a sleek look for every layout",
-  "version": "2.5.2",
+  "id": "zen-tweaks",
+  "homepage": "https://github.com/BuildEternal/zen-tweaks",
+  "author": "BuildEternal",
+  "name": "Zen Tweaks",
+  "description": "A collection of minor UI tweaks aimed at subtly improving the Zen user experience.",
+  "version": "1.0",
   "style": {
     "chrome": "style.css"
   },
-  "readme": "https://raw.githubusercontent.com/Comp-Tech-Guy/No-Gaps/refs/heads/main/README.md",
-  "image": "https://github.com/Comp-Tech-Guy/No-Gaps/blob/main/images/CompactMode.png?raw=true",
-  "tags":[
-    "Remove",
-    "Clean",
-    "No-Gaps",
-    "Border removed",
-    "Border",
-    "no-gap",
-    "no gap",
-    "Minimal",
-    "Neat"
-  ],
-  "fork": ["zen"]
+  "readme": "https://raw.githubusercontent.com/BuildEternal/zen-tweaks/refs/heads/main/README.md"
 }
